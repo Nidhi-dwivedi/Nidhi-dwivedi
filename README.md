@@ -20,6 +20,4 @@
 
 ## 🎀✨ Fun Stats ✨🎀
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-dwivedi&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-dwivedi&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi-dwivedi&show_icons=true&theme=radical)
