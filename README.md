@@ -20,4 +20,4 @@
 
 ## 🎀✨ Fun Stats ✨🎀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi-dwivedi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-dwivedi&layout=compact&theme=radical)
