@@ -2,8 +2,9 @@
 <h1 align="center">Hi, I’m Nidhi Rani👋</h1>
 
 <p align="center">
-Curious builder who enjoys solving problems and understanding how systems work.<br/>
-Focused on fundamentals, adaptability, and thoughtful learning.
+<!-- Curious builder who enjoys solving problems and understanding how systems work.<br/>
+Focused on fundamentals, adaptability, and thoughtful learning. -->
+  Creating, breaking, fixing, learning.
 </p>
 
 <div align="center">
